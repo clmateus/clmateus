@@ -15,7 +15,7 @@ Meu foco é o front-end usando react e typescript!
  
 <br>
 
-<div style='display: flex; justify-content: space-between'>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clmateus&layout=compact&langs_count=7&theme=aura "/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clmateus&layout=compact&langs_count=7&theme=aura "/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clmateus&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
