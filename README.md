@@ -16,6 +16,6 @@ Meu foco é o front-end usando react e typescript!
 <br>
 
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=clmateus&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/><br>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clmateus&layout=compact&langs_count=7&theme=aura "/>
+<img src="https://github-readme-stats.vercel.app/api?username=clmateus&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clmateus&layout=compact&langs_count=7&theme=aura "/>
 </div>
