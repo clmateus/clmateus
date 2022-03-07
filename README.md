@@ -2,7 +2,7 @@
 
 ### Olá! Seja bem-vindo ao meu perfil! 👋
 
-Tenho 21 anos, moro em São Paulo, Brasil e sou fascinado por programação, jogos e café! ☕<br> 
+Tenho 21 anos, moro em São Paulo, Brasil e sou fascinado por programação, design, jogos e café! ☕<br> 
 Ainda não consegui meu primeiro emprego como desenvolvedor, mas tenho passado muito tempo estudando para alcançar essa meta.<br>
 Meu foco é o front-end usando react e typescript!
 <p align="center">
