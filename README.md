@@ -4,6 +4,7 @@
 
 Tenho 22 anos, moro em São Paulo, Brasil e sou fascinado por programação, design, jogos e chá! ☕<br> 
 Ainda não consegui meu primeiro emprego como desenvolvedor, mas tenho passado muito tempo estudando para alcançar essa meta.<br>
+
 <img src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" alt="monkey coding gif">
 
 ### Tecnologias e Ferramentas ⚗️
